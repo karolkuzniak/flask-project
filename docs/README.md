@@ -92,19 +92,22 @@ These metrics track:
 
 ### Flask Application
 
-![Flask](docs/flask.png)
+<img width="1912" height="1063" alt="Zrzut ekranu 2026-03-11 190025" src="https://github.com/user-attachments/assets/0c776453-cbef-4473-adcb-03833bd693cc" />
+
 
 ### Metrics Endpoint
 
-![Metrics](docs/metrics.png)
+<img width="956" height="461" alt="metrics" src="https://github.com/user-attachments/assets/7a2f93cc-3c92-433f-8afd-da85ace33873" />
+
 
 ### Prometheus
+<img width="1919" height="1070" alt="Zrzut ekranu 2026-03-11 185252" src="https://github.com/user-attachments/assets/5ce30c6d-a9d0-4d07-a90b-b38e2e08084f" />
 
-![Prometheus](docs/prometheus.png)
 
 ### Grafana
 
-![Grafana](docs/grafana.png)
+<img width="959" height="497" alt="grafana" src="https://github.com/user-attachments/assets/8b9d9781-67ee-4d3e-9b43-cb68cb90a825" />
+
 
 ## Features
 
